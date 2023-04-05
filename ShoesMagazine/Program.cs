@@ -49,7 +49,7 @@ namespace ShoesMagazine
                 var shoe = shoes[i];
                 if (shoe.Price >= priceA && shoe.Price <= priceB)
                 {
-                    Console.WriteLine($"SKU: {shoe.Article} Name: {shoe.Name} Quantity: {shoe.Quantity} Price: {shoe.Price:C}");
+                    Console.WriteLine($"Art: {shoe.Article} Name: {shoe.Name} Quantity: {shoe.Quantity} Price: {shoe.Price:C}");
                 }
             }
 
