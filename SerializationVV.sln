@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMedicalOffice", "SchoolMedicalOffice\SchoolMedicalOffice.csproj", "{DE4CDB3E-0804-4F13-B17D-8E46A4F3FF0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolMedicalOffice", "SchoolMedicalOffice\SchoolMedicalOffice.csproj", "{DE4CDB3E-0804-4F13-B17D-8E46A4F3FF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoesMagazine", "ShoesMagazine\ShoesMagazine.csproj", "{901940EB-9D22-486D-B305-9A35F512F7EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DE4CDB3E-0804-4F13-B17D-8E46A4F3FF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE4CDB3E-0804-4F13-B17D-8E46A4F3FF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE4CDB3E-0804-4F13-B17D-8E46A4F3FF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901940EB-9D22-486D-B305-9A35F512F7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901940EB-9D22-486D-B305-9A35F512F7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901940EB-9D22-486D-B305-9A35F512F7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901940EB-9D22-486D-B305-9A35F512F7EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
